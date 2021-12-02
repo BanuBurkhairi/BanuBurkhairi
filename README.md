@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BanuBurkhairi
-- 👀 I’m interested in Front-End Web Developer
+- 👀 I’m a novice web developer
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 
 <!---
