@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BanuBurkhairi
-- 👀 I’m a novice web developer
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 👀 I’m a Laravel Enthusiast
+- 🌱 Committed to honing my skills and creating robust web applications
 
 <!---
 BanuBurkhairi/BanuBurkhairi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
